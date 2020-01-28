@@ -1,6 +1,6 @@
 Request: https://lighthouse.sigmaprime.io/ui-rfp.html
 
-Lighthouse User Interface - Request for Proposal from StakeDAO by Stake Capital
+## Lighthouse User Interface - Request for Proposal from StakeDAO by Stake Capital
 
 Stake DAO is a revenue-sharing organization, enabling DAO token holders to continuously receive staking rewards and participate in key decision making processes via pro-rata governance rights. The Stake DAO Light Paper is available here and explores the economics and implementation in greater detail.
 
